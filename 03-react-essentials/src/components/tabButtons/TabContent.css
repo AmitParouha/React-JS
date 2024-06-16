@@ -1,0 +1,14 @@
+.tab-content{
+    max-height: fit-content;
+    max-width:180vh ;
+    /* margin: 10px; */
+    padding: 2rem;
+    border-radius: 6px;
+    color: white;
+    background-color: #262d1f;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+  }
+   
+  .tab-content p {
+    color: bisque;
+  }
