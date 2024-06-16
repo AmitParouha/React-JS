@@ -1,0 +1,28 @@
+.card {
+    margin: 10px;
+    padding: 2rem;
+    max-width: 200px;
+    border-radius: 6px;
+    background-color: #140524;
+    box-shadow: 0 0 8px rgba(0,0,0,0.3);
+    float: inline-end;
+   
+  }
+   
+  .card h2 {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #e5d9f1;
+   
+  }
+   
+  .card p {
+    margin: 0.5rem 0;
+  }
+   
+  .card img {
+    height: auto;
+    max-width: 100%;
+  }
